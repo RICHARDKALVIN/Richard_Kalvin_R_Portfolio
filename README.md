@@ -1,4 +1,4 @@
-# Pathuri_Deepesh_Portfolio
+# Richard_Kalvin_Portfolio
 ## About Me
 I am passionate about technology, coding, and problem-solving. My focus areas include software development, web application development, algorithms, and data structures. I strive to continuously enhance my skills and contribute to innovative, efficient, and user-friendly technological solutions.
 
